@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Hello World</h1>
       <p>This is Hadijah learning how to do CI/CD with AWS</p>
+      <span>Testing that an automatic trigger happens when a commit is done</span>
     </div>
   );
 }
